@@ -6,8 +6,11 @@ license: true
 aside:
   toc: true
 show_edit_on_github: true
-show_subscribe: true
+show_subscribe: false
 pageview: true
+comments: true
+key: 20190226javascript1
+tags: javascript
 ---
 
 ## 자바스크립트의 버전
